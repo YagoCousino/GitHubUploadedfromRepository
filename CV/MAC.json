@@ -233,6 +233,10 @@
       {
         "name": "ES",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
