@@ -9,7 +9,13 @@
       "name": "Yago",
       "surnames": "Cousiño",
       "title": "Manfred / La Media Inglesa",
-      "description": "TBD"
+      "description": "TBD",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
     },
     "relevantLinks": [
       {
