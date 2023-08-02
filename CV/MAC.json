@@ -338,6 +338,12 @@
       },
       {
         "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Kubernetes",
           "type": "technology"
         }
@@ -345,6 +351,12 @@
       {
         "skill": {
           "name": "Lambda",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
           "type": "technology"
         }
       },
