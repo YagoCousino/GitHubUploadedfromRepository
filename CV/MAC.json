@@ -290,7 +290,25 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Facebook Ads",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Go",
           "type": "technology"
         }
       },
