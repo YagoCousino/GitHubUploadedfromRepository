@@ -254,6 +254,18 @@
       },
       {
         "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Facebook Ads",
           "type": "technology"
         }
