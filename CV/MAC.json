@@ -277,7 +277,8 @@
     "preferences": {
       "preferredRoles": [
         "Backend Developer",
-        "Data Engineer"
+        "Data Engineer",
+        "Data Scientist"
       ]
     },
     "status": "openToOffers"
