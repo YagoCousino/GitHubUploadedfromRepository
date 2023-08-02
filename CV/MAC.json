@@ -248,6 +248,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Airflow",
           "type": "technology"
         }
@@ -261,6 +267,12 @@
       {
         "skill": {
           "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
           "type": "technology"
         }
       },
