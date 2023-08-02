@@ -248,6 +248,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Airflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Facebook Ads",
           "type": "technology"
         }
