@@ -362,6 +362,18 @@
       },
       {
         "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Polymer",
           "type": "technology"
         }
