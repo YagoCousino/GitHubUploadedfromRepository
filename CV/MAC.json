@@ -266,12 +266,6 @@
       },
       {
         "skill": {
-          "name": "Apache",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Bash",
           "type": "technology"
         }
@@ -327,12 +321,6 @@
       {
         "skill": {
           "name": "Kafka",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
           "type": "technology"
         }
       },
