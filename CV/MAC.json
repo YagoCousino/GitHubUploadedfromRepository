@@ -248,12 +248,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Airflow",
           "type": "technology"
         }
@@ -261,12 +255,6 @@
       {
         "skill": {
           "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bash",
           "type": "technology"
         }
       },
@@ -327,12 +315,6 @@
       {
         "skill": {
           "name": "Lambda",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft",
           "type": "technology"
         }
       },
