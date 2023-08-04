@@ -266,12 +266,6 @@
       },
       {
         "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
@@ -297,12 +291,6 @@
       {
         "skill": {
           "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
           "type": "technology"
         }
       }
