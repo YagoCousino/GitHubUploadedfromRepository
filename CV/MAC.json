@@ -248,12 +248,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Airflow",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Angular2+",
           "type": "technology"
         }
@@ -267,12 +261,6 @@
       {
         "skill": {
           "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
           "type": "technology"
         }
       },
