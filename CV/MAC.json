@@ -278,12 +278,6 @@
       },
       {
         "skill": {
-          "name": "Go",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Google Cloud",
           "type": "technology"
         }
