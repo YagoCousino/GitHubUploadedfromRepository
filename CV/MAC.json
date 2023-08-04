@@ -266,12 +266,6 @@
       },
       {
         "skill": {
-          "name": "Ansible",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Apache",
           "type": "technology"
         }
@@ -380,12 +374,6 @@
       },
       {
         "skill": {
-          "name": "Polymer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "TeamCity",
           "type": "technology"
         }
@@ -419,5 +407,13 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Lambda",
+        "type": "technology"
+      }
+    ]
   }
 }
