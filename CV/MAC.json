@@ -260,12 +260,6 @@
       },
       {
         "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
@@ -314,6 +308,7 @@
     },
     "preferences": {
       "preferredRoles": [
+        "Accounting & Financial Planning",
         "Backend Developer",
         "Data Engineer",
         "Data Scientist",
