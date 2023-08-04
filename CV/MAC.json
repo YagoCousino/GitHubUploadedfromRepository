@@ -332,18 +332,6 @@
       },
       {
         "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Microsoft",
           "type": "technology"
         }
