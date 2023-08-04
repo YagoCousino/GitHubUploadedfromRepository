@@ -290,12 +290,6 @@
       },
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
@@ -327,12 +321,6 @@
       {
         "skill": {
           "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TeamCity",
           "type": "technology"
         }
       }
