@@ -302,12 +302,6 @@
       },
       {
         "skill": {
-          "name": "Facebook Ads",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Go",
           "type": "technology"
         }
@@ -369,6 +363,18 @@
       {
         "skill": {
           "name": "Microsoft",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
           "type": "technology"
         }
       },
